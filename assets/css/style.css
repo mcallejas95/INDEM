@@ -328,9 +328,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
-  color: #151515;
   text-decoration: none;
-  background: #ffc451;
+  color: #FFFFFF;
+  background-color: #09C6F9;
+  background-image: linear-gradient(#09C6F9, #045DE9);
 }
 
 .mobile-nav .drop-down > a:after {
